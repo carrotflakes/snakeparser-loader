@@ -6,11 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ['snake-parser', 'snakeparser'],
-  "author": "carrotflakes",
+  "keywords": ["snake-parser", "snakeparser"],
+  "author": "carrotflakes<carrotflakes@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "loader-utils": "^1.1.0",
     "snakeparser": "^0.2.4-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrotflakes/snakeparser-loader.git"
   }
 }

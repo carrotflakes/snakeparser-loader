@@ -1,0 +1,1 @@
+# snakeparser loader for webpack
